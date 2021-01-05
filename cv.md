@@ -2,6 +2,7 @@
 ======================
 
 ## Personal information 
+I was born on August 28th, 1995. I'm 25 years. 
 My goal is to learn how to create sites of varying complexity. I like to create something unusual.
 Basic information comes from my self-study. I consider this element of training a priority.I believe that courses help in this matter.
 I have always been attracted by interestingly designed websites and applications. I thought it was something unattainable for an ordinary person. 
@@ -27,7 +28,8 @@ But in my free time I study the basics of programming. I do tests, do the layout
 I graduated from the Belarusian State University. My specialty is records management.
 
 ## Languages
-Visiting an English tutor. At this stage I prefer individual training.
+I visit an English tutor. At this stage I prefer individual training.
+In the future I'm going to attend courses.
 My level of english - Pre-intermediate.
 
 ## Contact Information
