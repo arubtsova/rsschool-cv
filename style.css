@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(227, 236, 227);
+}
+.cover-header{
+display: block;
+
+}
+
+.header{
+    background-color:bisque;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    
+}
+
+.header__img{
+    border-radius: 70px;
+    
+    
+}
+
+.header__title{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
+.section__inform {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.section__skill {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+}
