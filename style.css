@@ -38,3 +38,10 @@ display: block;
     flex-direction: row;
     justify-content: space-around;  
 }
+
+.footer__contact {
+    display: flex;
+    
+    justify-content: center;
+    align-content: space-around;
+}
