@@ -27,10 +27,15 @@ display: block;
     
 }
 
+.section {
+   
+}
+
+
 .section__inform {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    
 }
 
 .section__skill {
@@ -41,7 +46,7 @@ display: block;
 
 .footer__contact {
     display: flex;
-    
     justify-content: center;
     align-content: space-around;
+    background-color: bisque;
 }
